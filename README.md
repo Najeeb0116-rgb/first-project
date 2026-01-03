@@ -1,3 +1,3 @@
 # first-project
 This is my first Git Repository.
-Author Najeeb Ullah
+Author-Najeeb Ullah
